@@ -1,1 +1,2 @@
 GameEngine manages the TicTacToe board and player turns.
+Git staging is used to prepare changes before committing.
